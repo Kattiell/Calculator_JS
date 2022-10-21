@@ -1,4 +1,4 @@
-# Calculator_JS_Css
+# Calculator_JS_CSS
 
 Imagens do Projeto (Modo Claro & Escuro)
 
